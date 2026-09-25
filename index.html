@@ -21,4 +21,4 @@ function show(q,c,save=true){let ok=c===q.answer;document.querySelectorAll('.opt
 $('check').onclick=()=>{let r=document.querySelector('input[name="a"]:checked');if(!r)return;show(list[idx],+r.value)};$('next').onclick=()=>{if(list.length){idx=(idx+1)%list.length;render()}};$('prev').onclick=()=>{if(list.length){idx=(idx-1+list.length)%list.length;render()}};$('shuffle').onclick=()=>{list.sort(()=>Math.random()-.5);idx=0;render()};$('reset').onclick=()=>{answered[tab]={};idx=0;render()};$('topic').onchange=filter;
 document.querySelectorAll('[data-tab]').forEach(b=>b.onclick=()=>{document.querySelectorAll('[data-tab]').forEach(x=>x.classList.remove('active'));b.classList.add('active');tab=b.dataset.tab;fill();filter()});
 fill();filter();
-</script></body></html>
+</script><script src="question-bank-updates.js"></script></body></html>
