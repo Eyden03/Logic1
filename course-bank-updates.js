@@ -2828,6 +2828,10 @@
       original.push(copy);
     }
   });
+  original.filter(question => normalize(question.question).includes('not all s is not p')).forEach(question => {
+    const answer = question.options.findIndex(option => normalize(option) === 'o');
+    if (answer >= 0) question.answer = answer;
+  });
   const seen = new Set();
   banks.original = original.filter(question => {
     const key = normalize(question.question);
