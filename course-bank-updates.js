@@ -1,5 +1,6 @@
 (() => {
   const normalize = value => String(value).toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+  const cleanQuestion = value => String(value).replace(/\s*[✓✗]+\s*$/g, '').trim();
   const sourceQuestions = [
   {
     "module": "SA1",
@@ -2804,6 +2805,8 @@
   }
 ];
   const original = banks.original;
+  sourceQuestions.forEach(question => { question.question = cleanQuestion(question.question); });
+  original.forEach(question => { question.question = cleanQuestion(question.question); });
   const modulesFor = question => question.modules || [question.module || 'Existing Reviewer'];
   const addModule = (question, moduleName) => {
     const modules = modulesFor(question);
