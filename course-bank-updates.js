@@ -2832,6 +2832,10 @@
     const answer = question.options.findIndex(option => normalize(option) === 'o');
     if (answer >= 0) question.answer = answer;
   });
+  original.filter(question => normalize(question.question).endsWith('not all s is p')).forEach(question => {
+    const answer = question.options.findIndex(option => normalize(option) === 'i');
+    if (answer >= 0) question.answer = answer;
+  });
   const seen = new Set();
   banks.original = original.filter(question => {
     const key = normalize(question.question);
