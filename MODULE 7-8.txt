@@ -1,0 +1,1805 @@
+MODULE 7 
+
+ Question 1
+1 / 1 pts
+What is the correct conversion of this categorical proposition: Some students are athletes?
+  All athletes are students
+ [x] ✓ Some athletes are students
+  No athletes are students
+  No conversion
+ 
+Correct answer
+Question 2
+1 / 1 pts
+What is the correct conversion of this categorical proposition: No mammals are reptiles?
+ [x] ✓ No reptiles are mammals
+  Some reptiles are mammals
+  All reptiles are mammals
+  No conversion
+ 
+Correct answer
+Question 3
+1 / 1 pts
+What is the correct conversion of this categorical proposition: All gold is metal?
+  All metal is gold
+ [x] ✓ Some metal is gold
+  Some gold is metal
+  No conversion
+ 
+Correct answer
+Question 4
+1 / 1 pts
+What is the correct conversion of this categorical proposition: Some fruits are apples?
+  All apples are fruits
+ [x] ✓ Some apples are fruits
+  No apples are fruits
+  No conversion
+ 
+Correct answer
+Question 5
+1 / 1 pts
+What is the correct conversion of this categorical proposition: Some men are fathers?
+  All fathers are men
+ [x] ✓ Some fathers are men
+  No fathers are men
+  No conversion
+ 
+Correct answer
+Question 6
+1 / 1 pts
+What is the correct conversion of this categorical proposition: Some singers are dancers?
+  All dancers are singers
+[x] ✓  Some dancers are singers
+  No dancers are singers
+  No conversion
+ 
+Correct answer
+Question 7
+1 / 1 pts
+What is the correct conversion of this categorical proposition: No ships are airplanes?
+[x] ✓  No airplanes are ships
+  Some airplanes are ships
+  All airplanes are ships
+  No conversion
+ 
+Correct answer
+Question 8
+1 / 1 pts
+What is the correct conversion of this categorical proposition: No fish are mammals?
+ [x] ✓ No mammals are fish
+  Some mammals are fish
+  All mammals are fish
+  No conversion
+ 
+Correct answer
+Question 9
+1 / 1 pts
+What is the correct conversion of this categorical proposition: Some philosophers are writers?
+  All writers are philosophers
+ [x] ✓ Some writers are philosophers
+  No writers are philosophers
+  No conversion
+ 
+Correct answer
+Question 10
+1 / 1 pts
+What is the correct conversion of this categorical proposition: No dogs are cats?
+ [x] ✓ No cats are dogs
+  Some cats are not dogs
+  All cats are dogs
+  No conversion
+ 
+Correct answer
+Question 11
+1 / 1 pts
+What is the correct obversion of this proposition? No fish are mammals.
+[x] ✓  All fish are non-mammals.
+  Some fish are mammals.
+  Some fish are non-mammals.
+  No fish are non-mammals.
+ 
+Correct answer
+Question 12
+1 / 1 pts
+What is the correct obversion of this proposition? All stars are luminous.
+  Some stars are luminous.
+  All stars are non-luminous.
+ [x] ✓ No stars are non-luminous.
+  Some stars are non-luminous.
+ 
+Correct answer
+Question 13
+1 / 1 pts
+What is the correct obversion of this proposition? All rivers are flowing.
+  Some rivers are flowing.
+  All rivers are non-flowing.
+ [x] ✓ No rivers are non-flowing.
+  Some rivers are non-flowing.
+ 
+Correct answer
+Question 14
+1 / 1 pts
+What is the correct obversion of this proposition? All stars are bright.
+  Some stars are bright.
+  All stars are non-bright.
+ [x] ✓ No stars are non-bright.
+  Some stars are non-bright.
+ 
+Correct answer
+Question 15
+1 / 1 pts
+What is the correct obversion of this proposition? No lies are truths.
+[x] ✓  All lies are non-truths.
+  Some lies are truths.
+  Some lies are non-truths.
+  No lies are non-truths.
+ 
+Correct answer
+Question 16
+1 / 1 pts
+What is the correct obversion of this proposition? No rivers are deserts.
+[x] ✓ All rivers are non-deserts.
+  Some rivers are deserts.
+  Some rivers are non-deserts.
+  No rivers are non-deserts.
+ 
+Correct answer
+Question 17
+1 / 1 pts
+What is the correct obversion of this proposition? Some birds are colorful.
+  Some birds are not colorful.
+[x] ✓ Some birds are non-non-colorful.
+  All birds are colorful.
+  No birds are colorful.
+ 
+Correct answer
+Question 18
+1 / 1 pts
+What is the correct obversion of this proposition? No snakes are birds.
+[x] ✓  All snakes are non-birds.
+  Some snakes are birds.
+  Some snakes are non-birds.
+  No snakes are non-birds.
+ 
+Correct answer
+Question 19
+1 / 1 pts
+What is the correct obversion of this proposition? All books are useful.
+  Some books are useful.
+  All books are non-useful.
+ [x] ✓ No books are non-useful.
+  Some books are non-useful.
+ 
+Correct answer
+Question 20
+1 / 1 pts
+What is the correct obversion of this proposition? Some foods are healthy.
+  Some foods are not healthy.
+  [x] ✓ Some foods are non-non-healthy.
+  All foods are healthy.
+  No foods are healthy.
+
+
+
+
+
+-------------------
+
+
+
+
+MODULE 8
+
+ Question 1
+1 / 1 pts
+
+What is the *major term* in this syllogism?
+
+All people who are most hungry are people who eat most.
+
+All people who eat least are people who are most hungry.
+
+Therefore, all people who eat least are people who eat most.
+  [x] ✓ people who eat most
+  people who eat least
+  people who are most hungry
+ 
+Correct answer
+Question 2
+1 / 1 pts
+
+What is the *major term* in this syllogism?
+
+Some students are diligent.
+
+Not all students are males.
+
+Therefore, not all males are diligent.
+ [x] ✓ diligent
+  males
+  students
+ 
+Correct answer
+Question 3
+1 / 1 pts
+
+What is the *minor term* in this syllogism?
+
+All senators and congressmen are legislators.
+
+Some legislators are deep-thinkers.
+
+Therefore, some deep-thinkers are senators and congressmen.
+ [x] ✓ deep-thinkers
+  senators
+  congressmen
+ 
+Correct answer
+Question 4
+1 / 1 pts
+
+What is the *major term* in this syllogism?
+
+All textbooks are books intended for careful study.
+
+Some reference books are books intended for careful study.
+
+Therefore, some reference books are textbooks.
+ [x] ✓ textbooks
+  reference books
+  books intended for careful study
+ 
+Correct answer
+Question 5
+1 / 1 pts
+
+What is the *minor term* in this syllogism?
+
+No tragic actors are idiots.
+
+Some comedians are not idiots.
+
+Therefore, some comedians are not tragic actors.
+ [x] ✓ comedians
+  tragic actors
+  idiots
+ 
+Correct answer
+Question 6
+1 / 1 pts
+
+What is the quantity of the highlighted/underlined term?
+
+Some bodies of water are abundant with life.
+
+All *rivers* are bodies of water.
+
+Therefore, all rivers are abundant with life.
+  Particular
+ [x] ✓ Universal
+ 
+Correct answer
+Question 7
+1 / 1 pts
+
+What is the quantity of the highlighted/underlined term?
+
+No tragic actors are idiots.
+
+Some comedians are not idiots.
+
+Therefore, some comedians are not *tragic actors*.
+  Particular
+ [x] ✓ Universal
+ 
+Correct answer
+Question 8
+1 / 1 pts
+
+What is the quantity of the highlighted/underlined term?
+
+Some parrots are not pests.
+
+All parrots are *pets*.
+
+Therefore, no pets are pests.
+ [x] ✓ Particular
+  Universal
+ 
+Correct answer
+Question 9
+1 / 1 pts
+
+What is the quantity of the highlighted/underlined term?
+
+Some spaniels are not good hunters.
+
+All *spaniels* are gentle dogs.
+
+Therefore, no gentle dogs are good hunters.
+  Particular
+ [x] ✓ Universal
+ 
+Correct answer
+Question 10
+1 / 1 pts
+
+What is the quantity of the highlighted/underlined term?
+
+All scholars are wide readers.
+
+Some Filipinos are *scholars*.
+
+Therefore, all Filipinos are wide readers.
+ [x] ✓ Particular
+  Universal
+ 
+Correct answer
+Question 11
+1 / 1 pts
+
+What is the mood of this syllogism?
+
+All considerate persons are very pleasant to deal with.
+
+No arrogant persons are very pleasant to deal with.
+
+Therefore, no arrogant persons are considerate persons.
+ [x] ✓ AEE
+  AEO
+  AAE
+  EAE
+ 
+Correct answer
+Question 12
+1 / 1 pts
+
+What is the mood of this syllogism?
+
+All metals are malleable.
+
+All trees are woods.
+
+Therefore, some woods are not stones.
+ [x] ✓ AAO
+  IIO
+  AAI
+  AII
+ 
+Correct answer
+Question 13
+1 / 1 pts
+
+What is the mood of this syllogism?
+
+All acquired habits are operative habits.
+
+All vices are acquired habits.
+
+Therefore, all vices are acquired operative habits.
+ [x] ✓ AAA
+  AAI
+  AIA
+  AEA
+ 
+Correct answer
+Question 14
+1 / 1 pts
+
+What is the mood of this syllogism?
+
+Some members of Congress are against some projects of the government.
+
+All members of Congress are the representatives of the people.
+
+Therefore, some representatives of the people are against some projects of the government.
+ [x] ✓ IAI
+  IAA
+  AAI
+  III
+ 
+Correct answer
+Question 15
+1 / 1 pts
+
+What is the mood of this syllogism?
+
+All junk foods are not healthy foods.
+
+All healthy foods are full of nutrition.
+
+Therefore, some full of nutrition are junk foods.
+[x] ✓  EAI
+  EAA
+  EAO
+  EOO
+ 
+Correct answer
+Question 16
+1 / 1 pts
+
+What is the FIGURE of this syllogism?
+
+Some Filipinos are good entertainers.
+
+Some good entertainers are not credible performers.
+
+Therefore, all credible performers are Filipinos.
+  1st Figure
+  2nd Figure
+  3rd Figure
+ [x] ✓ 4th Figure
+ 
+Correct answer
+Question 17
+1 / 1 pts
+
+What is the FIGURE of this syllogism?
+
+Some members of Congress are against some projects of the government.
+
+All members of Congress are the representatives of the people.
+
+Therefore, some representatives of the people are against some projects of the government.
+  1st Figure
+  2nd Figure
+[x] ✓  3rd Figure
+  4th Figure
+ 
+Correct answer
+Question 18
+1 / 1 pts
+
+What is the FIGURE of this syllogism?
+
+Some political groups are infiltrated by radical individuals.
+
+All groups infiltrated by radical individuals are threats to national security.
+
+Therefore, some threats to national security are political groups.
+  1st Figure
+  2nd Figure
+  3rd Figure
+[x] ✓  4th Figure
+ 
+Correct answer
+Question 19
+1 / 1 pts
+
+What is the FIGURE of this syllogism?
+
+All corrupt government officials are not honest when it comes to money.
+
+All those who are honest when it comes to money are dedicated officials.
+
+Therefore, some dedicated officials are not corrupt government officials.
+  1st Figure
+  2nd Figure
+  3rd Figure
+ [x] ✓ 4th Figure
+ 
+Correct answer
+Question 20
+1 / 1 pts
+
+What is the FIGURE of this syllogism?
+
+All junk foods are not healthy foods.
+
+All healthy foods are full of nutrition.
+
+Therefore, some full of nutrition are junk foods.
+  1st Figure
+  2nd Figure
+  3rd Figure
+ [x] ✓ 4th Figure
+
+
+---------------------------
+
+FA 7-8
+
+
+# Quiz Questions - Course 114216
+
+## Quiz 1740532
+
+### 1. Contradictories cannot be true at the same time, but can be false at the same time. ✓
+
+- [x] ✓ False
+- True
+
+---
+
+### 2. The Square of Oppositions is the map that visualizes the relationship of oppositions. ✓
+
+- [x] ✓ True
+- False
+
+---
+
+### 3. What is the correct conversion of this categorical proposition?
+
+No priests are sinners. ✓
+
+- No sinners are not priests.
+- [x] ✓ Some sinners are not priests.
+- All priests are not sinners.
+- No conversion
+
+---
+
+### 4. What is the correct conversion of this categorical proposition?
+
+Some shapes are squares. ✓
+
+- [x] ✓ Some squares are shapes.
+- Some squares are not shapes.
+- Some shapes are not squares.
+- All squares are shapes.
+
+---
+
+### 5. What is the correct obversion of this categorical proposition?
+
+Some birds are flying animals. ✓
+
+- All birds are not non-flying animals.
+- Some birds are non-flying animals.
+- Some birds are not flying animals.
+- [x] ✓ Some birds are not non-flying animals.
+
+---
+
+### 6. What is the correct obversion of this categorical proposition?
+
+Some shapes are squares. ✓
+
+- [x] ✓ Some shapes are not non-squares.
+- Some shapes are non-squares.
+- Some shapes are not squares.
+- All shapes are not non-squares.
+
+---
+
+### 7. What is the contrapositive of this proposition?
+
+Some mechanical engineers are not teachers. ✓
+
+- Some non-mechanical engineers are non-teachers.
+- All non-teachers are not non-mechanical engineers.
+- [x] ✓ Some non-teachers are not non-mechanical engineers.
+- Some teachers are not non-mechanical engineers.
+
+---
+
+### 8. What is the contrapositive of this proposition?
+
+No humans are angels. ✓
+
+- Some humans are not non-angels.
+- Some humans are angels.
+- All humans are non-angels.
+- [x] ✓ Some non-angels are not non-humans.
+
+---
+
+### 9. What is the FIGURE of this syllogism?
+
+All newspapers are materials filled with information.
+
+All broadsheets are newspapers.
+
+Therefore, all broadsheets are materials filled with information. ✓
+
+- [x] ✓ 1st Figure
+- 2nd Figure
+- 4th Figure
+- 3rd Figure
+
+---
+
+### 10. What is the FIGURE of this syllogism?
+
+No course of action that cause chaos in society are tolerable.
+
+All courses of actions that cause chaos in society are unlawful.
+
+Therefore, some unlawful practices are not tolerable. ✓
+
+- 4th Figure
+- [x] ✓ 3rd Figure
+- 1st Figure
+- 2nd Figure
+
+---
+
+### 11. What is the FIGURE of this syllogism?
+
+No arrogant persons are pleasant to deal with.
+
+Some administrative officials are not arrogant persons.
+
+Therefore, some administrative officials are pleasant to deal with. ✓
+
+- 3rd Figure
+- 2nd Figure
+- 4th Figure
+- [x] ✓ 1st Figure
+
+---
+
+### 12. What is the mood of this syllogism?
+
+Some birds are very ferocious.
+
+All doves are birds.
+
+Therefore, some doves are very ferocious. ✓
+
+- AII
+- [x] ✓ IAI
+- AAI
+- IAA
+
+---
+
+### 13. What is the mood of this syllogism?
+
+No honest athletes are dirty players.
+
+Some basketball players are dirty players.
+
+Therefore, some basketball players are not honest athletes. ✓
+
+- EOI
+- IEE
+- [x] ✓ EIO
+- OEI
+
+---
+
+### 14. What is the mood of this syllogism?
+
+No immodest ladies are decent-looking ladies.
+
+Some decent-looking ladies are beautiful ladies.
+
+Therefore, some beautiful ladies are not immodest ladies. ✓
+
+- EOI
+- [x] ✓ EIO
+- EII
+- EOO
+
+---
+
+### 15. What is the MAJOR term in this syllogism?
+
+Some students are diligent.
+
+Not all students are males.
+
+Therefore, not all males are diligent. ✓
+
+- males
+- [x] ✓ diligent
+- students
+
+---
+
+### 16. What is the MIDDLE term in this syllogism?
+
+Some spaniels are not good hunters.
+
+All spaniels are gentle dogs.
+
+Therefore, no gentle dogs are good hunters. ✓
+
+- [x] ✓ spaniels
+- gentle dogs
+- good hunters
+
+---
+
+### 17. What is the quantity of the highlighted/underlined term?
+
+All dogs are carnivorous.
+
+All cats are not *dogs*.
+
+Therefore, all cats are not carnivorous. ✓
+
+- Particular
+- [x] ✓ Universal
+
+---
+
+### 18. What is the quantity of the highlighted/underlined term?
+
+No tragic actors are idiots.
+
+Some comedians are not idiots.
+
+Therefore, some comedians are not *tragic actors*. ✓
+
+- [x] ✓ Universal
+- Particular
+
+---
+
+### 19. Is this syllogism valid or invalid?
+
+All scholars are wide readers.
+
+Some Filipinos are scholars.
+
+Therefore, all Filipinos are wide readers. ✓
+
+- [x] ✓ Invalid
+- Valid
+
+---
+
+### 20. Is this syllogism valid or invalid?
+
+All criminal actions are wicked deeds
+
+All prosecutions for murder are criminal actions.
+
+Therefore, all prosecutions for murder are wicked deeds. ✓
+
+- Invalid
+- [x] ✓ Valid
+
+---
+
+### 21. O is the subaltern of A. ✓
+
+- True
+- [x] ✓ False
+
+---
+
+### 22. Subaltern is the relationship between the universal and particular of the same quality. ✓
+
+- False
+- [x] ✓ True
+
+---
+
+### 23. What is the correct conversion of this categorical proposition?
+
+Some mammals are not carnivorous. ✓
+
+- No carnivorous are mammals.
+- Some carnivorous are mammals.
+- Some carnivorous are not mammals.
+- [x] ✓ No conversion
+
+---
+
+### 24. What is the correct conversion of this categorical proposition?
+
+All students are diligent. ✓
+
+- Some students are non-diligent.
+- All diligent people are students.
+- Some diligent people are not students.
+- [x] ✓ Some diligent people are students.
+
+---
+
+### 25. What is the correct obversion of this categorical proposition?
+
+Some lawyers are politicians. ✓
+
+- Some lawyers are politicians.
+- Some lawyers are non-politicians.
+- All lawyers are not non-politicians.
+- [x] ✓ Some lawyers are not non-politicians.
+
+---
+
+### 26. What is the correct obversion of this categorical proposition?
+
+All mammals are animals. ✓
+
+- [x] ✓ All mammals are not non-animals.
+- All mammals are non-animals.
+- All mammals are not animals.
+- Some mammals are not non-animals.
+
+---
+
+### 27. What is the contrapositive of this proposition?
+
+All dogs are mammals. ✓
+
+- All non-dogs are non-mammals.
+- Some non-dogs are non-animals.
+- [x] ✓ All non-mammals are non-dogs.
+- All non-mammals are dogs.
+
+---
+
+### 28. What is the FIGURE of this syllogism?
+
+All conscientious teachers look after the education of the student.
+
+No selfish person looks after the education of the student.
+
+Therefore, no selfish persons are conscientious teachers. ✓
+
+- [x] ✓ 2nd Figure
+- 4th Figure
+- 1st Figure
+- 3rd Figure
+
+---
+
+### 29. What is the FIGURE of this syllogism?
+
+No honest athletes are dirty players.
+
+Some basketball players are dirty players.
+
+Therefore, some basketball players are not honest athletes. ✓
+
+- 3rd Figure
+- [x] ✓ 2nd Figure
+- 1st Figure
+- 4th Figure
+
+---
+
+### 30. What is the mood of this syllogism?
+
+All acquired habits are operative habits.
+
+All vices are acquired habits.
+
+Therefore, all vices are acquired operative habits. ✓
+
+- AAI
+- [x] ✓ AAA
+- AIA
+- AEA
+
+---
+
+### 31. What is the mood of this syllogism?
+
+All senators and congressmen are legislators.
+
+Some legislators are deep-thinkers.
+
+Therefore, some deep-thinkers are senators and congressmen. ✓
+
+- IAI
+- AOI
+- AAI
+- [x] ✓ AII
+
+---
+
+### 32. What is the mood of this syllogism?
+
+All natural foods are necessary to maintain life.
+
+All natural foods are full of nutritive contents.
+
+Therefore, some that are full of nutritive contents are necessary to maintain life. ✓
+
+- AAA
+- AIA
+- [x] ✓ AAI
+- IAA
+
+---
+
+### 33. What is the MAJOR term in this syllogism?
+
+Some parrots are not pests.
+
+All parrots are pets.
+
+Therefore, no pets are pests. ✓
+
+- [x] ✓ pests
+- pets
+- parrots
+
+---
+
+### 34. What is the MINOR term in this syllogism?
+
+All dogs are carnivorous.
+
+All cats are not dogs.
+
+Therefore, all cats are not carnivorous. ✓
+
+- carnivorous
+- dogs
+- [x] ✓ cats
+
+---
+
+### 35. What is the quantity of the highlighted/underlined term?
+
+Some bodies of water are abundant with life.
+
+All *rivers* are bodies of water.
+
+Therefore, all rivers are abundant with life. ✓
+
+- [x] ✓ Universal
+- Particular
+
+---
+
+### 36. What is the quantity of the highlighted/underlined term?
+
+Some good actors are not *powerful athletes*.
+
+All professional wrestlers are powerful athletes.
+
+Therefore all professional wrestlers are good actors. ✓
+
+- Particular
+- [x] ✓ Universal
+
+---
+
+### 37. Is this syllogism valid or invalid?
+
+All dogs are carnivorous.
+
+All cats are not dogs.
+
+Therefore, all cats are not carnivorous. ✓
+
+- [x] ✓ Invalid
+- Valid
+
+---
+
+### 38. Is this syllogism valid or invalid?
+
+All textbooks are books intended for careful study.
+
+Some reference books are books intended for careful study.
+
+Therefore, some reference books are textbooks. ✓
+
+- Valid
+- [x] ✓ Invalid
+
+---
+
+### 39. Contraries cannot be true at the same time, but can be false at the same time. ✓
+
+- False
+- [x] ✓ True
+
+---
+
+### 40. I and O can be false at the same time. ✓
+
+- [x] ✓ False
+- True
+
+---
+
+### 41. What is the correct obversion of this categorical proposition?
+
+All students are diligent. ✓
+
+- Some students are non-diligent.
+- [x] ✓ All students are not non-diligent.
+- All students are not diligent.
+- Some students are not non-diligent.
+
+---
+
+### 42. What is the correct obversion of this categorical proposition?
+
+Some mammals are not carnivorous. ✓
+
+- Some mammals are not non-carnivorous.
+- [x] ✓ Some mammals are non-carnivorous.
+- Some mammals are carnivorous.
+- All mammals are non-carnivorous.
+
+---
+
+### 43. What is the contrapositive of this proposition?
+
+Some lawyers are liars. ✓
+
+- [x] ✓ No contrapositive
+- Some liars are not lawyers.
+- Some liars are non-lawyers.
+- All liars are lawyers.
+
+---
+
+### 44. What is the FIGURE of this syllogism?
+
+All fundamentals human rights are guaranteed by the Constitution.
+
+No fundamental human rights are absolute rights.
+
+Therefore, no absolute rights are guaranteed by the Constitution. ✓
+
+- [x] ✓ 3rd Figure
+- 4th Figure
+- 2nd Figure
+- 1st Figure
+
+---
+
+### 45. What is the FIGURE of this syllogism?
+
+No immodest ladies are decent-looking ladies.
+
+Some decent-looking ladies are beautiful ladies.
+
+Therefore, some beautiful ladies are not immodest ladies. ✓
+
+- 1st Figure
+- [x] ✓ 4th Figure
+- 2nd Figure
+- 3rd Figure
+
+---
+
+### 46. What is the FIGURE of this syllogism?
+
+Some books are entertaining.
+
+all books are informative materials.
+
+Therefore, some informative materials are entertaining. ✓
+
+- 4th Figure
+- 1st Figure
+- 2nd Figure
+- [x] ✓ 3rd Figure
+
+---
+
+### 47. What is the mood of this syllogism?
+
+No arrogant persons are pleasant to deal with.
+
+Some administrative officials are not arrogant persons.
+
+Therefore, some administrative officials are pleasant to deal with. ✓
+
+- EOE
+- [x] ✓ EOI
+- EIO
+- EOO
+
+---
+
+### 48. What is the mood of this syllogism?
+
+Some classical music are good to listen to.
+
+Every classical music is a masterpiece.
+
+Therefore, every master piece is good to listen to. ✓
+
+- IIA
+- [x] ✓ IAA
+- AIA
+- AAA
+
+---
+
+### 49. What is the mood of this syllogism?
+
+All honest professors are like by their students.
+
+Some honest professors are kind educators.
+
+Therefore, some kind educators are liked by their students. ✓
+
+- IAI
+- AAI
+- [x] ✓ AII
+- AAA
+
+---
+
+### 50. What is the MINOR term in this syllogism?
+
+All senators and congressmen are legislators.
+
+Some legislators are deep-thinkers.
+
+Therefore, some deep-thinkers are senators and congressmen. ✓
+
+- congressmen
+- [x] ✓ deep-thinkers
+- senators
+
+---
+
+### 51. What is the major term in this syllogism?
+
+All people who are most hungry are people who eat most.
+
+All people who eat least are people who are most hungry.
+
+Therefore, all people who eat least are people who eat most. ✓
+
+- people who are most hungry
+- people who eat least
+- [x] ✓ people who eat most
+
+---
+
+### 52. What is the quantity of the highlighted/underlined term?
+
+All scholars are wide readers.
+
+Some Filipinos are *scholars*.
+
+Therefore, all Filipinos are wide readers. ✓
+
+- [x] ✓ Particular
+- Universal
+
+---
+
+### 53. What is the quantity of the highlighted/underlined term?
+
+All people who are most hungry are people who eat most.
+
+All *people who eat least* are people who are most hungry.
+
+Therefore, all people who eat least are people who eat most. ✓
+
+- Particular
+- [x] ✓ Universal
+
+---
+
+### 54. Is this syllogism valid or invalid?
+
+Some reformers are fanatics.
+
+All reformers are idealist.
+
+Therefore, some idealists are fanatics. ✓
+
+- Invalid
+- [x] ✓ Valid
+
+---
+
+### 55. Is this syllogism valid or invalid?
+
+Some spaniels are not good hunters.
+
+All spaniels are gentle dogs.
+
+Therefore, no gentle dogs are good hunters. ✓
+
+- [x] ✓ Invalid
+- Valid
+
+---
+
+### 56. Subcontraries cannot be false at the same time, but can be true at the same time. ✓
+
+- [x] ✓ True
+- False
+
+---
+
+### 57. It is possible for all the propositions (A, E, I, and O) to be true at the same time. ✓
+
+- True
+- [x] ✓ False
+
+---
+
+### 58. What is the correct obversion of this categorical proposition?
+
+Some lawyers are not liars. ✓
+
+- [x] ✓ Some lawyers are non-liars
+- All lawyers are non-liars.
+- No lawyers are non-liars.
+- Some lawyers are not non-liars.
+
+---
+
+### 59. What is the contrapositive of this proposition?
+
+Some animals are carnivorous. ✓
+
+- [x] ✓ No contrapositive
+- Some animals are not carnivorous.
+- Some carnivorous are not animals.
+- Some non-carnivorous are not non-animals.
+
+---
+
+### 60. What is the FIGURE of this syllogism?
+
+Some classical music are good to listen to.
+
+Every classical music is a masterpiece.
+
+Therefore, every master piece is good to listen to. ✓
+
+- 1st Figure
+- 4th Figure
+- [x] ✓ 3rd Figure
+- 2nd Figure
+
+---
+
+### 61. What is the FIGURE of this syllogism?
+
+All honest professors are like by their students.
+
+Some honest professors are kind educators.
+
+Therefore, some kind educators are liked by their students. ✓
+
+- 2nd Figure
+- 4th Figure
+- 1st Figure
+- [x] ✓ 3rd Figure
+
+---
+
+### 62. What is the mood of this syllogism?
+
+All newspapers are materials filled with information.
+
+All broadsheets are newspapers.
+
+Therefore, all broadsheets are materials filled with information. ✓
+
+- AII
+- AEE
+- AAI
+- [x] ✓ AAA
+
+---
+
+### 63. What is the mood of this syllogism?
+
+Some adventurous individuals are aggressive.
+
+Some athletes are not adventurous individuals.
+
+Therefore, some athletes are not aggressive. ✓
+
+- OOO
+- [x] ✓ IOO
+- IIO
+- III
+
+---
+
+### 64. What is the MIDDLE term in this syllogism?
+
+Some good actors are not powerful athletes.
+
+All professional wrestlers are powerful athletes.
+
+Therefore all professional wrestlers are good actors. ✓
+
+- professional wrestlers
+- [x] ✓ powerful athletes
+- good actors
+
+---
+
+### 65. What is the major term in this syllogism?
+
+All cows are quadrupeds (four-footed animal).
+
+No cows are insentient.
+
+Therefore, no insentient are quadrupeds. ✓
+
+- insentient
+- [x] ✓ quadrupeds
+- cows
+
+---
+
+### 66. What is the quantity of the highlighted/underlined term?
+
+All criminal actions are wicked deeds
+
+All prosecutions for murder are criminal actions.
+
+Therefore, all *prosecutions for murder* are wicked deeds. ✓
+
+- Particular
+- [x] ✓ Universal
+
+---
+
+### 67. What is the quantity of the highlighted/underlined term?
+
+All textbooks are books intended for careful study.
+
+Some reference books are *books intended for careful study*.
+
+Therefore, some reference books are textbooks. ✓
+
+- [x] ✓ Particular
+- Universal
+
+---
+
+### 68. Is this syllogism valid or invalid?
+
+No tragic actors are idiots.
+
+Some comedians are not idiots.
+
+Therefore, some comedians are not tragic actors. ✓
+
+- [x] ✓ Invalid
+- Valid
+
+---
+
+### 69. O contradicts A. ✓
+
+- False
+- [x] ✓ True
+
+---
+
+### 70. What is the correct conversion of this categorical proposition?
+
+Some lawyers are not liars. ✓
+
+- Some liars are lawyers.
+- No liars are lawyers.
+- [x] ✓ No conversion
+- Some liars are not lawyers.
+
+---
+
+### 71. What is the FIGURE of this syllogism?
+
+All forest ranges are courageous enough to face dangers.
+
+Some forest rangers are military personnel.
+
+Therefore, some military personnel are courageous enough to face danger. ✓
+
+- 4th Figure
+- [x] ✓ 3rd Figure
+- 2nd Figure
+- 1st Figure
+
+---
+
+### 72. What is the mood of this syllogism?
+
+All corrupt government officials are not honest when it comes to money.
+
+All those who are honest when it comes to money are dedicated officials.
+
+Therefore, some dedicated officials are not corrupt government officials. ✓
+
+- AAO
+- AAO
+- AEO
+- [x] ✓ EAO
+
+---
+
+### 73. What is the mood of this syllogism?
+
+Some members of Congress are against some projects of the government.
+
+All members of Congress are the representatives of the people.
+
+Therefore, some representatives of the people are against some projects of the government. ✓
+
+- AAI
+- III
+- IAA
+- [x] ✓ IAI
+
+---
+
+### 74. What is the MINOR term in this syllogism?
+
+No tragic actors are idiots.
+
+Some comedians are not idiots.
+
+Therefore, some comedians are not tragic actors. ✓
+
+- idiots
+- [x] ✓ comedians
+- tragic actors
+
+---
+
+### 75. Is this syllogism valid or invalid?
+
+Some students are diligent.
+
+Not all students are males.
+
+Therefore, not all males are diligent. ✓
+
+- Valid
+- [x] ✓ Invalid
+
+---
+
+### 76. There are a total of 6 possible oppositions. ✓
+
+- True
+- [x] ✓ False
+
+---
+
+### 77. What is the FIGURE of this syllogism?
+
+Some Filipinos are good entertainers.
+
+Some good entertainers are not credible performers.
+
+Therefore, all credible performers are Filipinos. ✓
+
+- [x] ✓ 4th Figure
+- 2nd Figure
+- 1st Figure
+- 3rd Figure
+
+---
+
+### 78. What is the FIGURE of this syllogism?
+
+All considerate persons are very pleasant to deal with.
+
+No arrogant persons are very pleasant to deal with.
+
+Therefore, no arrogant persons are considerate persons. ✓
+
+- 4th Figure
+- [x] ✓ 2nd Figure
+- 1st Figure
+- 3rd Figure
+
+---
+
+### 79. What is the mood of this syllogism?
+
+All considerate persons are very pleasant to deal with.
+
+No arrogant persons are very pleasant to deal with.
+
+Therefore, no arrogant persons are considerate persons. ✓
+
+- AEO
+- [x] ✓ AEE
+- AAE
+- EAE
+
+---
+
+### 80. What is the mood of this syllogism?
+
+No just laws are oppressive laws.
+
+Some promulgated laws are oppressive laws.
+
+Therefore, all promulgated laws are just laws. ✓
+
+- EAI
+- [x] ✓ EIA
+- AEI
+- EEI
+
+---
+
+### 81. What is the MINOR term in this syllogism?
+
+Some bodies of water are abundant with life.
+
+All rivers are bodies of water.
+
+Therefore, all rivers are abundant with life. ✓
+
+- bodies of water
+- [x] ✓ rivers
+- abundant with life
+
+---
+
+### 82. What is the quantity of the highlighted/underlined term?
+
+Some *diamonds* are precious stones.
+
+Some carbon compounds are not diamonds.
+
+Therefore, some carbon compounds are not precious stones. ✓
+
+- Universal
+- [x] ✓ Particular
+
+---
+
+### 83. Is this syllogism valid or invalid?
+
+Some diamonds are precious stones.
+
+Some carbon compounds are not diamonds.
+
+Therefore, some carbon compounds are not precious stones. ✓
+
+- Valid
+- [x] ✓ Invalid
+
+---
+
+### 84. What is the correct conversion of this categorical proposition?
+
+Not all Filipinos are Asians. ✓
+
+- [x] ✓ Not all Asians are Filipinos.
+- Not all Asians are not Filipinos.
+- No Asians are Filipinos.
+- Some Asians are not Filipinos.
+
+---
+
+### 85. What is the FIGURE of this syllogism?
+
+All corrupt government officials are not honest when it comes to money.
+
+All those who are honest when it comes to money are dedicated officials.
+
+Therefore, some dedicated officials are not corrupt government officials. ✓
+
+- 1st Figure
+- [x] ✓ 4th Figure
+- 3rd Figure
+- 2nd Figure
+
+---
+
+### 86. What is the mood of this syllogism?
+
+All fundamentals human rights are guaranteed by the Constitution.
+
+No fundamental human rights are absolute rights.
+
+Therefore, no absolute rights are guaranteed by the Constitution. ✓
+
+- [x] ✓ AEE
+- EAE
+- EEE
+- EAA
+
+---
+
+### 87. What is the mood of this syllogism?
+
+All metals are malleable.
+
+All trees are woods.
+
+Therefore, some woods are not stones. ✓
+
+- AAI
+- IIO
+- [x] ✓ AAO
+- AII
+
+---
+
+### 88. What is the quantity of the highlighted/underlined term?
+
+All senators and congressmen are legislators.
+
+Some legislators are deep-thinkers.
+
+Therefore, some *deep-thinkers* are senators and congressmen. ✓
+
+- [x] ✓ Particular
+- Universal
+
+---
+
+### 89. Is this syllogism valid or invalid?
+
+Some bodies of water are abundant with life.
+
+All rivers are bodies of water.
+
+Therefore, all rivers are abundant with life. ✓
+
+- Valid
+- [x] ✓ Invalid
+
+---
+
+### 90. Is this syllogism valid or invalid?
+
+Some parrots are not pests.
+
+All parrots are pets.
+
+Therefore, no pets are pests. ✓
+
+- Valid
+- [x] ✓ Invalid
+
+---
+
+### 91. What is the correct obversion of this categorical proposition?
+
+No angels are humans. ✓
+
+- [x] ✓ All angels are non-humans.
+- Some angels are non-humans.
+- All angels are humans.
+- All angels are not non-humans.
+
+---
+
+### 92. What is the FIGURE of this syllogism?
+
+Some members of Congress are against some projects of the government.
+
+All members of Congress are the representatives of the people.
+
+Therefore, some representatives of the people are against some projects of the government. ✓
+
+- 2nd Figure
+- 1st Figure
+- 4th Figure
+- [x] ✓ 3rd Figure
+
+---
+
+### 93. What is the mood of this syllogism?
+
+All forest ranges are courageous enough to face dangers.
+
+Some forest rangers are military personnel.
+
+Therefore, some military personnel are courageous enough to face danger. ✓
+
+- IAI
+- IIA
+- IAA
+- [x] ✓ AII
+
+---
+
+### 94. E and I can be true at the same time. ✓
+
+- [x] ✓ False
+- True
+
+---
+
+### 95. What is the correct conversion of this categorical proposition?
+
+Some lawyers are politicians. ✓
+
+- [x] ✓ Some politicians are lawyers.
+- No politicians are lawyers.
+- All politicians are lawyers.
+- Some politicians are not lawyers.
+
+---
+
+### 96. What is the MAJOR term in this syllogism?
+
+All textbooks are books intended for careful study.
+
+Some reference books are books intended for careful study.
+
+Therefore, some reference books are textbooks. ✓
+
+- [x] ✓ textbooks
+- books intended for careful study
+- reference books
+
+---
+
+### 97. Is this syllogism valid or invalid?
+
+All people who are most hungry are people who eat most.
+
+All people who eat least are people who are most hungry.
+
+Therefore, all people who eat least are people who eat most. ✓
+
+- [x] ✓ Valid
+- Invalid
+
+---
+
+### 98. Is this syllogism valid or invalid?
+
+All senators and congressmen are legislators.
+
+Some legislators are deep-thinkers.
+
+Therefore, some deep-thinkers are senators and congressmen. ✓
+
+- Valid
+- [x] ✓ Invalid
+
+---
+
+### 99. What is the correct obversion of this categorical proposition?
+
+No priests are sinners. ✓
+
+- All priests are not non-sinners.
+- Some priests are non-sinners.
+- [x] ✓ All priests are non-sinners.
+- All priests are sinners.
+
+---
+
+### 100. What is the FIGURE of this syllogism?
+
+All senators and congressmen are legislators.
+
+Some legislators are deep-thinkers.
+
+Therefore, some deep-thinkers are senators and congressmen. ✓
+
+- 3rd Figure
+- [x] ✓ 4th Figure
+- 2nd Figure
+- 1st Figure
+
+---
+
+### 101. What is the mood of this syllogism?
+
+No course of action that cause chaos in society are tolerable.
+
+All courses of actions that cause chaos in society are unlawful.
+
+Therefore, some unlawful practices are not tolerable. ✓
+
+- [x] ✓ EAO
+- AEO
+- OEA
+- AEI
+
+---
+
+### 102. What is the quantity of the highlighted/underlined term?
+
+Some students are diligent.
+
+Not all *students* are males.
+
+Therefore, not all males are diligent. ✓
+
+- Universal
+- [x] ✓ Particular
+
+---
+

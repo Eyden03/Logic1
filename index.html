@@ -2,7 +2,7 @@
 <title>Logic Mastery Complete Reviewer</title>
 <style>
 :root{--bg:#f4f7f7;--card:#fff;--ink:#172126;--muted:#66757e;--green:#176b50;--line:#d6dee2;--good:#eaf8f0;--bad:#fff0ef;--yellow:#fff7d9}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);font-family:system-ui,-apple-system,Segoe UI,Arial;color:var(--ink)}header{background:#123f34;color:#fff;padding:25px}.wrap{max-width:980px;margin:auto}h1{margin:0 0 5px}header p{margin:0;opacity:.9}main{padding:18px}.tabs,.toolbar,.actions{display:flex;gap:9px;flex-wrap:wrap}button,select{font:inherit;border:1px solid var(--line);border-radius:10px;padding:10px 14px;background:white}button{cursor:pointer}.active,.primary{background:var(--green);color:white;border-color:var(--green)}.card{background:white;border:1px solid var(--line);border-radius:16px;padding:20px;margin-top:14px}.toolbar{align-items:center}.stats{margin-left:auto;color:var(--muted)}.progress{height:8px;background:#e3e9eb;border-radius:9px;overflow:hidden;margin:16px 0}#bar{height:100%;background:var(--green)}.meta{color:var(--muted);font-size:14px}#question{font-size:22px;line-height:1.4}.opt{display:block;padding:12px;border:1px solid var(--line);border-radius:10px;margin:9px 0}.correct{background:var(--good);border-color:#4a9b70}.wrong{background:var(--bad);border-color:#d85c54}#feedback{display:none;padding:12px;border-radius:10px;margin-top:12px}#feedback.show{display:block}.arg{background:#f4f7f8;border:1px solid var(--line);border-radius:10px;padding:13px;margin-bottom:10px}.target{background:var(--yellow);border:2px solid #d4a62b;border-radius:10px;padding:13px;font-weight:700}.small{font-size:13px;color:var(--muted);line-height:1.5;margin-top:15px}.hidden{display:none}@media(max-width:600px){.stats{width:100%;margin-left:0}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);font-family:system-ui,-apple-system,Segoe UI,Arial;color:var(--ink)}header{background:#123f34;color:#fff;padding:25px}.wrap{max-width:980px;margin:auto}h1{margin:0 0 5px}header p{margin:0;opacity:.9}main{padding:18px}.tabs,.toolbar,.actions{display:flex;gap:9px;flex-wrap:wrap}button,select{font:inherit;border:1px solid var(--line);border-radius:10px;padding:10px 14px;background:white}button{cursor:pointer}.active,.primary{background:var(--green);color:white;border-color:var(--green)}.card{background:white;border:1px solid var(--line);border-radius:16px;padding:20px;margin-top:14px}.toolbar{align-items:center}.stats{margin-left:auto;color:var(--muted)}.progress{height:8px;background:#e3e9eb;border-radius:9px;overflow:hidden;margin:16px 0}#bar{height:100%;background:var(--green)}.meta{color:var(--muted);font-size:14px}#question{font-size:22px;line-height:1.4;white-space:pre-line}#question u{text-decoration-line:underline;text-decoration-thickness:2px;text-underline-offset:3px;text-decoration-color:var(--green)}.opt{display:block;padding:12px;border:1px solid var(--line);border-radius:10px;margin:9px 0}.correct{background:var(--good);border-color:#4a9b70}.wrong{background:var(--bad);border-color:#d85c54}#feedback{display:none;padding:12px;border-radius:10px;margin-top:12px}#feedback.show{display:block}.arg{background:#f4f7f8;border:1px solid var(--line);border-radius:10px;padding:13px;margin-bottom:10px}.target{background:var(--yellow);border:2px solid #d4a62b;border-radius:10px;padding:13px;font-weight:700}.small{font-size:13px;color:var(--muted);line-height:1.5;margin-top:15px}.hidden{display:none}@media(max-width:600px){.stats{width:100%;margin-left:0}}
 </style></head><body><header><div class="wrap"><h1>Logic Mastery Complete Reviewer</h1><p>Collected course questions + separate generated mastery practice. Works offline.</p></div></header>
 <main class="wrap"><div class="tabs"><button class="active" data-tab="original">Your Questions</button><button data-tab="generated">Generated Practice</button><button data-tab="mistakes">Review Mistakes</button></div>
 <div class="card"><div class="toolbar"><label>Module <select id="module"></select></label><label>Topic <select id="topic"></select></label><button id="shuffle">Shuffle</button><button id="reset">Reset Tab</button><span class="stats" id="stats"></span></div><div class="progress"><div id="bar"></div></div>
@@ -13,7 +13,7 @@ const banks={original:[{"topic": "Arguments", "question": "Identify whether each
 const $=x=>document.getElementById(x), key=q=>q.topic+'||'+q.question;
 function bank(){return tab==='mistakes'?mistakes:banks[tab]}
 function topics(){return ['All Topics',...new Set(bank().map(q=>q.topic))]}
-function modules(){return ['All Modules','Existing Reviewer','SA1','SA2','Formatives']}
+function modules(){return ['All Modules','Existing Reviewer','SA1','SA2','SA3','Formatives']}
 function questionModules(q){return q.modules||[q.module||'Existing Reviewer']}
 function fill(){$('module').innerHTML=modules().map(x=>'<option>'+x+'</option>').join('');$('topic').innerHTML=topics().map(x=>'<option>'+x+'</option>').join('')}
 function filter(){let t=$('topic').value,m=$('module').value;list=bank().filter(q=>(m==='All Modules'||questionModules(q).includes(m))&&(t==='All Topics'||q.topic===t));idx=0;render()}
@@ -23,4 +23,73 @@ function show(q,c,save=true){let ok=c===q.answer;document.querySelectorAll('.opt
 $('check').onclick=()=>{let r=document.querySelector('input[name="a"]:checked');if(!r)return;show(list[idx],+r.value)};$('next').onclick=()=>{if(list.length){idx=(idx+1)%list.length;render()}};$('prev').onclick=()=>{if(list.length){idx=(idx-1+list.length)%list.length;render()}};$('shuffle').onclick=()=>{list.sort(()=>Math.random()-.5);idx=0;render()};$('reset').onclick=()=>{answered[tab]={};idx=0;render()};$('topic').onchange=filter;
 document.querySelectorAll('[data-tab]').forEach(b=>b.onclick=()=>{document.querySelectorAll('[data-tab]').forEach(x=>x.classList.remove('active'));b.classList.add('active');tab=b.dataset.tab;fill();filter()});$('module').onchange=filter;
 fill();filter();
-</script><script src="question-bank-updates.js?v=5f44314"></script><script src="course-bank-updates.js?v=5f44314"></script><script src="legacy-question-bank-updates.js?v=5f44314"></script><script src="premise-format.js?v=5f44314"></script></body></html>
+</script><script src="question-bank-updates.js?v=5f44314"></script><script src="course-bank-updates.js?v=5f44314"></script><script src="legacy-question-bank-updates.js?v=5f44314"></script><script src="premise-format.js?v=5f44314"></script>
+<script>
+/* Module 7–8 additions. Course questions are loaded from the supplied text file,
+   normalized, and deduplicated without changing the existing reviewer bank. */
+const sa3Generated=[
+ {topic:'LOGICAL EQUIVALENCE',module:'SA3',question:'What is the correct conversion of “No poets are machines”?',options:['No machines are poets','Some machines are poets','All machines are poets','No conversion'],answer:0,explanation:'An E proposition converts simply by interchanging the subject and predicate.'},
+ {topic:'LOGICAL EQUIVALENCE',module:'SA3',question:'What is the correct obversion of “All planets are celestial bodies”?',options:['No planets are non-celestial bodies','Some planets are non-celestial bodies','All celestial bodies are planets','No celestial bodies are planets'],answer:0,explanation:'Obversion changes the quality and replaces the predicate with its complement.'},
+ {topic:'LOGICAL EQUIVALENCE',module:'SA3',question:'Which proposition is the contradictory of “All musicians are artists”?',options:['No musicians are artists','Some musicians are artists','Some musicians are not artists','All artists are musicians'],answer:2,explanation:'The contradictory of an A proposition is the corresponding O proposition.'},
+ {topic:'LOGICAL EQUIVALENCE',module:'SA3',question:'What is the contrapositive of “All architects are professionals”?',options:['All non-professionals are non-architects','All professionals are architects','No architects are professionals','Some non-architects are professionals'],answer:0,explanation:'Contraposition interchanges the terms and complements both.'},
+ {topic:'CATEGORICAL SYLLOGISM',module:'SA3',question:'All mammals are warm-blooded. All whales are mammals. Therefore, all whales are warm-blooded. What is the mood?',options:['AAA','AII','EAE','IAI'],answer:0,explanation:'Both premises and the conclusion are universal affirmatives (A).'},
+ {topic:'CATEGORICAL SYLLOGISM',module:'SA3',question:'No reptiles are warm-blooded. All snakes are reptiles. Therefore, no snakes are warm-blooded. What is the figure?',options:['1st Figure','2nd Figure','3rd Figure','4th Figure'],answer:0,explanation:'The middle term is the subject of the major premise and predicate of the minor premise.'},
+ {topic:'CATEGORICAL SYLLOGISM',module:'SA3',question:'All engineers are problem-solvers. Some students are engineers. Therefore, some students are problem-solvers. Is the syllogism valid?',options:['Valid','Invalid'],answer:0,explanation:'This is the valid AII-1 form (Darii).'},
+ {topic:'CATEGORICAL SYLLOGISM',module:'SA3',question:'No artists are robots. Some painters are artists. Therefore, some painters are not robots. What is the middle term?',options:['artists','robots','painters'],answer:0,explanation:'The middle term appears in both premises but not in the conclusion.'}
+];
+banks.generated.push(...sa3Generated);
+
+// Keep the reviewer's HTML escaping, but allow only the underline/bold tags
+// created from the trusted *term* and **term** markers in MODULE 7-8.txt.
+const sa3EscapeHTML=value=>String(value).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+const sa3OriginalPremiseHTML=premiseHTML;
+premiseHTML=q=>{
+ if(q.topic==='Premise or Conclusion')return sa3OriginalPremiseHTML(q);
+ const safe=sa3EscapeHTML(q.question).replace(/&lt;(\/?)(u|strong)&gt;/gi,'<$1$2>');
+ return '<h2>'+safe+'</h2>';
+};
+
+(async()=>{
+ const clean=s=>s.replace(/\r/g,'').replace(/\[x\]\s*/gi,'').replace(/✓/g,'').replace(/\s+/g,' ').trim();
+ const emphasize=s=>clean(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\*(.+?)\*/g,'<u>$1</u>');
+ const norm=s=>clean(s).replace(/<[^>]*>/g,'').replace(/\*/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ');
+ const topicFor=q=>/\b(figure|mood|major term|minor term|middle term|quantity)\b|valid or invalid|syllogism/i.test(q)?'CATEGORICAL SYLLOGISM':'LOGICAL EQUIVALENCE';
+ const make=(question,rawOptions,correct)=>({topic:topicFor(question),module:'SA3',question:emphasize(question),options:rawOptions.map(clean),answer:correct,explanation:'Course quiz key: '+clean(rawOptions[correct])+'.'});
+ const parsed=[];
+ function parseCourseSection(text){
+  const blocks=[...text.matchAll(/(?:^|\n)\s*Question\s+\d+\s*\n\s*1\s*\/\s*1\s*pts\s*\n([\s\S]*?)(?=\n\s*Question\s+\d+|\n-{5,}|$)/gi)];
+  for(const match of blocks){
+   const lines=match[1].split('\n').filter(x=>!/^\s*Correct answer\s*$/i.test(x)&&x.trim());
+   const optionLines=lines.filter(x=>/^\s{2,}\S/.test(x)||/^\s*\[x\]/i.test(x));
+   const questionLines=lines.filter(x=>!optionLines.includes(x));
+   const answer=optionLines.findIndex(x=>/\[x\]/i.test(x));
+   if(questionLines.length&&optionLines.length>1&&answer>=0)parsed.push(make(questionLines.join('\n'),optionLines,answer));
+  }
+ }
+ function parseFaSection(text){
+  const blocks=[...text.matchAll(/^###\s+\d+\.\s*([\s\S]*?)(?=^---\s*$|^###\s+\d+\.|(?![\s\S]))/gm)];
+  for(const match of blocks){
+   const lines=match[1].split('\n').filter(x=>x.trim());
+   const firstOption=lines.findIndex(x=>/^\s*-\s+/.test(x));
+   if(firstOption<0)continue;
+   const question=lines.slice(0,firstOption).join('\n');
+   const optionLines=lines.slice(firstOption).filter(x=>/^\s*-\s+/.test(x)).map(x=>x.replace(/^\s*-\s+/,''));
+   const answer=optionLines.findIndex(x=>/\[x\]/i.test(x));
+   if(question&&optionLines.length>1&&answer>=0)parsed.push(make(question,optionLines,answer));
+  }
+ }
+ try{
+  const response=await fetch(encodeURI('MODULE 7-8.txt'));
+  if(!response.ok)throw new Error('HTTP '+response.status);
+  const source=await response.text();
+  const faAt=source.indexOf('FA 7-8');
+  parseCourseSection(source.slice(0,faAt<0?source.length:faAt));
+  if(faAt>=0)parseFaSection(source.slice(faAt));
+  console.info('SA3 source questions parsed:',parsed.length,'from',source.length,'characters; FA offset',faAt);
+  const seen=new Set(banks.original.map(q=>norm(q.question)));
+  const unique=parsed.filter(q=>{const id=norm(q.question);if(!id||seen.has(id))return false;seen.add(id);return true});
+  banks.original.push(...unique);
+  fill();filter();
+ }catch(error){console.error('Could not load the SA3 course questions:',error)}
+})();
+</script></body></html>
